@@ -1,0 +1,28 @@
+{
+  "currentMode": "parallel",
+  "dualModeEnabled": true,
+  "requestCounter": 0,
+  "bots": {
+    "bot1": {
+      "active": true,
+      "role": "line1",
+      "lastSeen": 1768173860450,
+      "username": "ChatGPT_API"
+    },
+    "bot2": {
+      "active": true,
+      "role": "line2",
+      "lastSeen": 1768173857876,
+      "username": "ChatGPT_L2"
+    },
+    "bot3": {
+      "active": true,
+      "role": "line3",
+      "lastSeen": 1768173863074,
+      "username": "ChatGPT_L3"
+    }
+  },
+  "globalResponseCache": null,
+  "whisperResponseCaches": {},
+  "lastReminderTime": 0
+}
