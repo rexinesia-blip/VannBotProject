@@ -852,14 +852,14 @@ class APIManager {
       {
         id: 1,
         provider: 'ChatAnywhere',
-        key: 'sk-3ZidMb4KLKWITlINZfR1dRg9MFaHicdCWpjT8HzjdkwQzt8N',
+        key: 'ghp3ZidMb4KLKWITlINZfR1dRg9MFaHicdCWpjT8HzjdkwQzt8N',
         baseURL: 'https://api.chatanywhere.tech/v1',
         models: ['gpt-3.5-turbo', 'gpt-4']
       },
       {
         id: 2,
         provider: 'A4F',
-        key: 'ddc-a4f-625eda4b0a2e48f2bec9113cf42e80cf',
+        key: 'ghp_6AZ5625eda4b0a2e48f2bec9113cf42e80cf',
         baseURL: 'https://www.a4f.co/models/v1',
         models: ['gpt-4o-mini', 'gpt-4o']
       }
